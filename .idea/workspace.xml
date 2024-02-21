@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c00e062-804d-496b-abb4-7faf33bc4093" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/NewEra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra/ALL DATA TYPE METHODS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra/CHARACTERISTICS ALL DATATYPE.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra/Team-c Presentation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/_loggging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/cls_static_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/custom_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/dec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/magic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/pdf/_loggging.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/pdf/cls_static_methods.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/pdf/custom_sorting.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/pdf/dec.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/pdf/encap.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Importance_aspects/pdf/magic.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Inheritance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Revise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/conditional_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/access-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/csv_files/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/csv_files/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/csv_files/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/csv_files/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/csv_files/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/csv_files/vaccination_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/football.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/sample.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/extra_files/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/git_questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/iframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/loops_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/loops_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/strings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/practice/Revise.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2b8BbUwmQlYefQJle0MyqZKZehi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Practice/Python_rmg_11",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.git_questions">
+    <configuration name="Revise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewEra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Revise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cls_static_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewEra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sandeep Sir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sandeep Sir/cls_static_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="git_questions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewEra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/git_questions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iframe (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewEra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/iframe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iframe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewEra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\Desktop\NewEra\practice\iframe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NewEra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.git_questions" />
+        <item itemvalue="Python.Revise" />
+        <item itemvalue="Python.cls_static_methods" />
+        <item itemvalue="Python.iframe (1)" />
+        <item itemvalue="Python.iframe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c00e062-804d-496b-abb4-7faf33bc4093" name="Changes" comment="" />
+      <created>1705586897355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705586897355</updated>
+    </task>
+    <servers />
+  </component>
+</project>

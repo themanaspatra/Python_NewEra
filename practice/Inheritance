@@ -1,0 +1,54 @@
+1. Create a class named Registration. implement the following functionalities
+    1. get user inputs for first_name, last_name, username, email, phone_no, password
+    2. validate email for the particular format("first_name.last_name@gmail.com")
+    3. validate phone number for 10 digits and the number must start with either 6/7/8/9 while storing the phone
+       the number must be stored by prefixing +91(implement decorator for the same)
+    4. password must contain at least 8 characters with at least 1 uppercase, 1 lowercase, 1, number and a special characters
+    5. store all the data created into a csv file.
+    6. If the user has already registered then raise an exception
+    (Note: If possible use Regular expression module for validation)
+
+Create a class named Login(inherit Registration)
+    1. get the username/email and password
+    2. read the above created csv file for data.
+    3. Validate the input data with the data present in the database.
+    4. check if the user has input valid username/email and passwords.
+    5. if the user does not exist perform registration operation.
+    6. If all the credentials are valid, inform the user about successful login.
+
+2. Create a Custom list class inheriting all the properties of List.
+    1. If called pop(), the method should remove the first element.
+    2. Index() must return the last occurrence of the element.
+    3. copy() must do deep copy instead of shallow copy.
+
+# Hybrid inheritance question - combination of 2 or more inheritance pattern
+3. Create a class Named ShoppingCart. Implement the following functionalities
+    1. It should inherit both Login and Registration Classes from Q_no 1
+    2. create a database for all the available products along with their quantities.
+       (separate class for Database - You should be able to add, delete, update and fetch the data using this class)
+    3. search for an item from the database.
+    4. add an item to the cart.
+    5. delete an item from the cart.
+    6. Checkout the item after paying the amount.
+    (Use Banking Class to do withdraw/transfer operation, the amount should actually be debited from
+    the user's bank account.
+     Use decorator to Calculate the execution time and if time exceeds 10 seconds, it should throw error)
+    7. Once checking out reduce the quantity and update the database.
+    (Note: Implement it in any way according to your convenience but follow the pattern
+           and if required raise exceptions)
+
+4. What is the output of the below code and why?
+class A:
+	def spam(self):
+		print("in spam A")
+
+class B:
+	def spam(self):
+		super().spam()
+		print("in spam B")
+
+class C(B, A):
+	pass
+
+c = C()
+c.spam()

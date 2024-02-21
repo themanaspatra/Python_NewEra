@@ -1,0 +1,115 @@
+1. create a class called Calculator that takes 2 arguments and write functions for addition, subtraction and multiplication of 2 numbers.
+
+2. create a class called Employee with company name, first name, last name and salary as inputs and write functions to do the following operations
+    1. allow the user to update name
+    2. create email id  (first_name.last_name@company.com)
+    3. update salary only if the salary is valid.
+
+3. Create a class named CustomList with list as an input and implement the following functions using low level interactions.
+    1. add a value at the end.
+    2. get length
+    3. pop element
+    4. insert element at specific index
+    5. remove element from specific index
+    6. rotate the list for specified number of times.
+
+4. Create a class named Number that takes an integer as input.
+    1. check if it is even or odd
+    2. check if it is a prime number
+    3. generate prime number series upto that number
+    4. generate fibonocci series upto that number
+
+5. create a class called Employee with first name, last name, joining date('DD-MM-YYYY') and salary as inputs and write functions to do the following operations
+   (use datetime module)
+   1. return the joining date in datetime object
+   2. return the joining date in string format (eg: 10 May 2023) - use timedelta and strftime
+   3. Calculate the total year of experience of the employee upto this date
+   4. If the employee is having at least 1 year of experience, then hike his/her salary by 20%
+
+6. create a class called FileHandler with file object as input. Implement the following functions.
+    1. return length of the file(number of lines)
+    2. return the number of blank lines in the file
+    3. record the data of how many times the file was opened and the date(eg: 10 May 2023) and time at which it was opened(Hour:Minute:Second) in a csv file
+    4. return only the nth line
+    5. return a list of lines from user defined start and end range
+    6. return last n lines
+
+7. Two players are playing a guessing game where one player has to guess the other player's choice, whoever takes less chance is declared the winner
+   (inputs: players name and list of places)
+    1. get a random number from player1 and return that specific indexed place.
+    2. get a random choice from player 2 and check how many chances will player 2 takes
+       till he guesses player 1 place correctly.
+    3. for the next turn follow step 1 and step2 for player 2
+    4. Compare both player1 and player2's chances taken and declare the winner
+    (Hint: use random module)
+
+8. create a class named Shares and take share name, number of shares and share prices as inputs
+    1. sort the shares based on share names
+    2. sort the shares based on share numbers
+    3. sort the shares based on share prices
+
+9. create a class called OperatingSystem,
+    1. return the current working directory
+    2. check if the user input file is present in the directory or not, if it is present
+       then open the file and rename it and if not create one
+    3. check if the user input folder name is present in the directory or not, if it is present
+       return the attributes present in that directory else create the directory.
+    4. check if the file is present and if present return the size of the file specified by the user
+
+10. create a class named ArrayClass with typecode and a sequence - use array module
+    1. initialize an array based on the input sequence
+    2. return all the available typecodes of the array in the form of list.
+    3. return the typecode of the initialized array
+    4. add the user input element to the index specified by the user.
+       - If the index is 0 then insert it.
+       - If the index is len(array)-1, then check if the element is a individual datatype or sequence
+         if sequence extend it or else append it
+    5. reverse the array.
+    6. return the count of the specified element in the array.
+    7. remove the specific element, if the element is present at the end pop it.
+    8. convert the array to a list
+    9. convert the array to a string
+
+11. Create a class named Registration. implement the following functionalities
+    1. get user inputs for first_name, last_name, username, email, phone_no, password
+    2. validate email for the particular format("first_name.last_name@gmail.com")
+    3. validate phone number for 10 digits and the number must start with either 6/7/8/9 while storing the phone
+       the number must be stored by prefixing +91(implement decorator for the same)
+    4. password must contain at least 8 characters with at least 1 uppercase, 1 lowercase, 1, number and a special characters
+    5. store all the data created into a csv file.
+    6. If the user has already registered then raise an exception
+    (Note: If possible use Regular expression module for validation)
+
+12. Create a class named Login
+    1. get the username/email and password
+    2. read the above created csv file for data.
+    3. Validate the input data with the data present in the database.
+    4. check if the user has input valid username/email and passwords.
+    5. if the user does not exist perform registration operation.
+    6. If all the credentials are valid, inform the user about successful login
+
+13. Create a class called Library.
+    1. create a database for books with the book_names and number of copies
+    2. customer should be able to
+        1. view the available books.
+        2. get his/her desired book/s
+        3. return the book/s
+    3. The data(customer name, date, time, book_name) must be stored in database.
+    4. Once the book is returned the status of the data must be returned or else it should be pending.
+    5. The number of copies must either decrease or increase based on the availability.
+    (Note: If possible try to use some actual databases - mysql (https://www.mysql.com/downloads/)
+     and read the interact with the db using python-https://www.w3schools.com/python/python_mysql_getstarted.asp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
