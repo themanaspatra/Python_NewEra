@@ -35,10 +35,11 @@ def check_prime(some_num):
 
 
 check_prime(3)
-check_prime(4)
+check_prime(11)
 
 # Write a method that returns the last digit of an integer. For example, the call of
 # get_last_digit(3572) should return 2.
+
 
 def get_last_digit(some_num):
     return some_num % 10
