@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../framework_rmg11/.idea/framework_rmg11.iml" filepath="$PROJECT_DIR$/../framework_rmg11/.idea/framework_rmg11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonframework.iml" filepath="$PROJECT_DIR$/.idea/pythonframework.iml" />
-    </modules>
-  </component>
-</project>

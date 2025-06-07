@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NewEra.iml" filepath="$PROJECT_DIR$/.idea/NewEra.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Practice/pythonframework/.idea/pythonframework.iml" filepath="$PROJECT_DIR$/../Practice/pythonframework/.idea/pythonframework.iml" />
     </modules>
   </component>
 </project>
