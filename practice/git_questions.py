@@ -1842,6 +1842,6 @@ nums = [10, 27, 30, 40, 53]
 even = lambda num: num % 2 == 0
 
 print(list(map(even, nums)))         # [T, F, T, T, F]
-print(list(filter(even, nums)))     #  [10, 30, 40]
+print(list(filter(even, nums)))     # [10, 30, 40]
 
 print()
